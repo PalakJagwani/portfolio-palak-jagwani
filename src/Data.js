@@ -156,10 +156,10 @@ export const projects_data = [
         id : 9,
         project_name : "Portfolio",
         tech_stack : "HTML | CSS | JavaScript | React Js",
-        client_url : "https://github.com",
+        client_url : "https://github.com/PalakJagwani/portfolio-palak-jagwani",
         server_url : "",
         project_img : portfolio,
-        live_url : "https://github.com",
+        live_url : "https://portfolio-palak-jagwani.vercel.app/",
         description : "Crafted with HTML, CSS, and React, this portfolio project showcases skills and projects dynamically. Developing it, I strengthened my frontend development expertise, delving into React's component-based architecture and state management. This project emphasized the importance of responsive design and personal branding, enriching my portfolio and professional presence."
     },
 ]
