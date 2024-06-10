@@ -14,15 +14,21 @@ function Intro(){
                     <p className=" text-lg ">I'm a self driven and meticulous BCA undergrad at Tilak Maharashtra Vidyapeeth, Pune Maharashtra.</p>
                     <p className=" text-lg ">I'm proficient in multiple programming languages like JavaScript, Java and have a development exprience in full stack Development.</p>
                 </div>
-                <div className=" mt-14">
-                    <h2 className="text-4xl font-semibold font-serif pb-6 text-dark_pastel">Social Links</h2>
-                    <div className=" mb-2">
-                        <i className="fa-brands fa-linkedin-in fa-lg " style={{color: "#525252"}}></i>
-                        <a href="https://www.linkedin.com/in/palak-jagwani-60a7bb270" className=" ml-6">palak-jagwani</a>
-                    </div>
+                <div className=" mt-14 flex flex-col md:flex-row justify-between">
                     <div>
-                        <i className=" my-4 fa-brands fa-github fa-lg " style={{color: "#000000"}}></i>
-                        <a href="https://github.com/PalakJagwani" className=" ml-6">PalakJagwani</a>
+                        <h2 className="text-4xl font-semibold font-serif pb-6 text-dark_pastel">Social Links</h2>
+                        <div className=" mb-2">
+                            <i className="fa-brands fa-linkedin-in fa-lg " style={{color: "#525252"}}></i>
+                            <a href="https://www.linkedin.com/in/palak-jagwani-60a7bb270" className=" ml-6">palak-jagwani</a>
+                        </div>
+                        <div>
+                            <i className=" my-4 fa-brands fa-github fa-lg " style={{color: "#000000"}}></i>
+                            <a href="https://github.com/PalakJagwani" className=" ml-6">PalakJagwani</a>
+                        </div>
+                    </div>
+                    <div className ="mt-5 md:mt-0 flex justify-around">
+                        <a href = "#my_skills" className="border border-black py-3 px-5 text-sm mt-5 inline-block mx-3 md:mt-20">View Skills</a>
+                        <a href = "#my_projects" className="border border-black py-3 px-5 text-sm mt-5 inline-block md:mt-20">View Projects</a>
                     </div>
                 </div>
             </div>

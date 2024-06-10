@@ -3,7 +3,7 @@ import {Project} from '../Components/index'
 
 function Projects(){
     return(
-        <div className=" my-24 md:mx-20 mx-2">
+        <div className=" my-24 md:mx-20 mx-2" id="my_projects">
             <h2 className=" text-4xl font-bold text-center">My Projects</h2>
             <div className=" grid lg:grid-cols-3 grid-cols-1 my-10">
                 {
