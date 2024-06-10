@@ -21,7 +21,7 @@ function Intro(){
                         <a href="https://www.linkedin.com/in/palak-jagwani-60a7bb270" className=" ml-6">palak-jagwani</a>
                     </div>
                     <div>
-                        <i className=" my-4 fa-brands fa-github fa-lg" style={{color: "#000000"}}></i>
+                        <i className=" my-4 fa-brands fa-github fa-lg " style={{color: "#000000"}}></i>
                         <a href="https://github.com/PalakJagwani" className=" ml-6">PalakJagwani</a>
                     </div>
                 </div>

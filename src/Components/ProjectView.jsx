@@ -24,9 +24,9 @@ function ProjectView(){
                 </div>
                 <h2 className=' mt-[10%] text-2xl font-semibold'>View it here..</h2>
                 <ul className=' mt-[2%]'>
-                    <li>Github Link : <b>Client Side</b> : <a href={project.client_url}>{project.client_url}</a></li>
-                    {project.server_url ? <li>Github Link : <b>Server Side</b> : <a href={project.server_url}>{project.server_url}</a></li> : ""}
-                    <li className='mt-2 '>Live Link : <a href={project.live_url}>{project.live_url}</a></li>
+                    <li className = " overflow-scroll mr-[10%]">Github Link : <b>Client Side</b> : <a href={project.client_url}>{project.client_url}</a></li>
+                    {project.server_url ? <li className = " overflow-scroll mr-[10%]">Github Link : <b>Server Side</b> : <a href={project.server_url}>{project.server_url}</a></li> : ""}
+                    <li className='mt-2 overflow-scroll mr-[10%]'>Live Link : <a href={project.live_url}>{project.live_url}</a></li>
                 </ul>
             </div>
         </div>

@@ -146,10 +146,10 @@ export const projects_data = [
         id : 8,
         project_name : "PassWord Generator",
         tech_stack : "HTML | CSS | TypeScript",
-        client_url : "https://github.com/PalakJagwani/PasswordGenerator",
+        client_url : "https://github.com/PalakJagwani/PasswordGeneratorProject",
         server_url : "",
         project_img : password,
-        live_url : "https://palakjagwani.github.io/PasswordGenerator/",
+        live_url : "https://palakjagwani.github.io/PasswordGeneratorProject/",
         description : "Crafted with HTML, CSS, and TypeScript, this password generator project offers secure and customizable password creation. Through its development, I honed my frontend design skills and deepened my understanding of TypeScript, highlighting the significance of building user-friendly tools for enhancing digital security."
     },
     {
