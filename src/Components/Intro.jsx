@@ -10,9 +10,7 @@ function Intro(){
             <div className="md:w-[65%] bg-light_pastel h-[100%] py-20 px-16">
                 <div className=" ">
                     <h2 className="text-4xl font-semibold font-serif pb-6 text-dark_pastel">About Me</h2>
-                    <p className=" text-lg">Welcome to my corner of the web! I'm Palak, a passionate web developer with strong enthusiasm for MERN Stack Development. I'm exited to apply my skills and enthusiasm in real-world projects.</p>
-                    <p className=" text-lg ">I'm a self driven and meticulous BCA undergrad at Tilak Maharashtra Vidyapeeth, Pune Maharashtra.</p>
-                    <p className=" text-lg ">I'm proficient in multiple programming languages like JavaScript, Java and have a development exprience in full stack Development.</p>
+                    <p className=" text-lg">Welcome to my corner of the web! I'm Palak, a passionate web developer with a keen interest in MERN Stack Development. I thrive on applying my skills and enthusiasm to real-world projects, bringing ideas to life through code.As a self-driven and meticulous BCA undergraduate at Tilak Maharashtra Vidyapeeth in Pune, Maharashtra, I am committed to honing my craft and staying ahead in the ever-evolving tech landscape. My proficiency spans multiple programming languages, including JavaScript and Java, and I have hands-on experience in full-stack development.Explore my portfolio to see how I combine creativity and technical expertise to deliver innovative solutions!</p>
                 </div>
                 <div className=" mt-14 flex flex-col md:flex-row justify-between">
                     <div>
